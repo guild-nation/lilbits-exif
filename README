@@ -1,0 +1,26 @@
+# EXIF edit prototype
+
+## Dependencies
+
+### Libraries comparison
+https://npmtrends.com/blueimp-load-image-vs-exif-js-vs-piexifjs
+
+### Piexifjs
+https://piexifjs.readthedocs.io/en/latest/sample.html
+
+### Merge Images
+https://www.npmjs.com/package/merge-images
+
+## Samples
+
+### generate.js
+Generate a random image, with some base EXIF, then check the result
+
+### write.js
+Given a fixed image, modify it's EXIF data, check the result
+
+### merge.js
+Based on 3 existing images, modify the EXIF data, check the result
+
+### extract.js
+Extract the metadata from each file

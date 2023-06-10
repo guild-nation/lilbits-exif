@@ -1,0 +1,13 @@
+{
+  "name": "exif-test",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "jimp": "^0.16.2",
+    "js-image-generator": "^1.0.3",
+    "piexifjs": "^1.0.6",
+    "seedrandom": "^3.0.5"
+  }
+}
